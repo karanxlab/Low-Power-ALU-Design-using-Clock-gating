@@ -63,7 +63,7 @@ Low-Power-ALU-Design-using-Clock-gating/
 ### Behavioral Simulation
 The design has been successfully verified through behavioral simulation in Xilinx Vivado. The waveform demonstrates proper ALU operation with clock gating implementation.
 
-![Simulation Waveform](images/alu_vivadoresult.png)
+![Simulation Waveform](alu_vivadoresult.png)
 
 **Simulation Details:**
 - **Testbench**: tb_top
